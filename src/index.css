@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://media.istockphoto.com/photos/engineer-meeting-for-an-architectural-project-working-with-partner-picture-id1330168130?b=1&k=20&m=1330168130&s=170667a&w=0&h=vM84Dd1d3N4hhUDvf2mcOGQGaK_vBhljyQrsp17jOoE=");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
