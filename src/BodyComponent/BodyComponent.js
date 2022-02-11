@@ -1,7 +1,8 @@
 import React from "react";
 import './BodyComponent.css'
 
-const BodyComponent = () =>{
+class BodyComponent extends React.Component {
+    render(){
     return(
         <>
                 <div>
@@ -16,6 +17,7 @@ const BodyComponent = () =>{
                     <img src="https://cdn.pixabay.com/photo/2018/01/20/08/01/craftsmen-3094035_960_720.jpg" className="nest"></img>
                 </div>
         </>
-    )
+    );
+}
 }
 export default BodyComponent;;
